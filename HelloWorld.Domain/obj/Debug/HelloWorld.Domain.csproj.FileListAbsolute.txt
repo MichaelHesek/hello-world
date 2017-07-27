@@ -1,0 +1,4 @@
+c:\users\mhesek\documents\visual studio 2017\Projects\HelloWorld\HelloWorld.Domain\bin\Debug\domain.dll
+c:\users\mhesek\documents\visual studio 2017\Projects\HelloWorld\HelloWorld.Domain\bin\Debug\domain.pdb
+c:\users\mhesek\documents\visual studio 2017\Projects\HelloWorld\HelloWorld.Domain\obj\Debug\domain.dll
+c:\users\mhesek\documents\visual studio 2017\Projects\HelloWorld\HelloWorld.Domain\obj\Debug\domain.pdb
